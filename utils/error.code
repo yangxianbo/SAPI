@@ -1,0 +1,6 @@
+-1000	transcoder init fail
+-1001	run_server is not start
+-1002	run_tc is not start
+-1003	daemon is exist,start fail
+-1004	daemon is not start,stop fail
+-1005	daemon is not start,restart fail

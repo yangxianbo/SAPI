@@ -1,0 +1,76 @@
+#!/usr/bin/python2.7
+#coding:utf-8
+#AUTHOR: yangxb
+#CREATER: 2015-06-19 17:13:49
+#FILENAME: APIserver.py
+#DESCRIPTION: 
+#===============================================================
+
+
+from xmlrpclib import ServerProxy
+from SimpleXMLRPCServer import SimpleXMLRPCServer
+from urlparse import urlparse
+import os,sys
+import ConfigParser
+from utils.trans_control import Check_transcoder
+from Error_handle import *
+
+
+def auth(func):
+    def check_login(*args, **kwargs):
+        n=0
+        for key in args:
+            if key == 100:
+                n+=1
+                func(*args, **kwargs)
+            else:continue
+        if n != 1:
+            raise AuthFail
+
+def getPort(url):
+    '''分离Url,提取端口号'''
+    name=urlparse(url)[1]
+    parts=name.split(':')
+    if len(parts) != 2:
+        port=80
+    else:
+        port=int(parts[-1])
+    return port
+
+
+class APIserver(Check_transcoder):
+    def __init__(self,url,key):
+        self.port=getPort(url)
+        self.key=key
+
+    def _start(self):
+        '''内部使用,用于启动XML_RPC服务器'''
+        s=SimpleXMLRPCServer(('',self.port))
+        s.register_instance(self)
+        s.serve_forever()
+
+        
+
+    @auth
+    def check_transcoder(self,query,key):
+        print "use"
+        Check_transcoder.__init__(self,query)
+
+    def echo(self,query):
+        return query.upper()
+
+    def plus(self,query):
+        return query*2
+
+def main():
+    path="./config/config.ini"
+    if not os.path.exists(path):
+            sys.exit("找不到配置文件:%s" % path)
+    cf = ConfigParser.ConfigParser()
+    cf.read('./config/config.ini')
+    key=cf.items('auth_key')[0]
+    url=sys.argv[1]
+    n=APIserver(url,key)
+    n._start()
+
+if __name__ == '__main__':main()

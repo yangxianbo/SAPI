@@ -1,0 +1,31 @@
+[INFO] Tue, 18 Aug 2015 14:39:07 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:41:50 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:45:25 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:45:57 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:46:56 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:47:12 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:47:39 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:48:18 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:49:02 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:49:47 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:50:17 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:51:09 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 14:53:22 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:10:14 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:10:39 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:14:41 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:15:27 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:21:45 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:25:31 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:25:31 send_query.py POST {"Disk_size": {"/dev/sda": "500GB"}, "ip": "10.0.2.22", "hostname": "gvtv-System-Product-Name", "Memory_total": "2.0 G", "system-product-name": "SystemProductName", "MAC": "bc:ae:c5:df:dd:7b", "system-serial-number": "SystemSerialNumber", "key": "c1d585bb2e4e5001e4a3d0371d9cb039", "system-manufacturer": "Systemmanufacturer", "Disk_hardware": {"disk0": "ATA WDC WD5000AAKX-0"}, "type": "long", "processor-version": "Pentium(R)Dual-CoreCPUE5400@2.70GHz * 1"} to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:25:40 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:25:40 send_query.py POST {"Disk_size": {"/dev/sda": "500GB"}, "ip": "10.0.2.22", "hostname": "gvtv-System-Product-Name", "Memory_total": "2.0 G", "system-product-name": "SystemProductName", "MAC": "bc:ae:c5:df:dd:7b", "system-serial-number": "SystemSerialNumber", "key": "c1d585bb2e4e5001e4a3d0371d9cb039", "system-manufacturer": "Systemmanufacturer", "Disk_hardware": {"disk0": "ATA WDC WD5000AAKX-0"}, "type": "long", "processor-version": "Pentium(R)Dual-CoreCPUE5400@2.70GHz * 1"} to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:30:30 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:30:34 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:40:12 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:40:12 send_query.py POST {"Disk_size": {"/dev/sda": "500GB"}, "ip": "10.0.2.22", "hostname": "gvtv-System-Product-Name", "Memory_total": "2.0 G", "system-product-name": "SystemProductName", "MAC": "bc:ae:c5:df:dd:7b", "system-serial-number": "SystemSerialNumber", "key": "c1d585bb2e4e5001e4a3d0371d9cb039", "system-manufacturer": "Systemmanufacturer", "Disk_hardware": {"disk0": "ATA WDC WD5000AAKX-0"}, "type": "long", "processor-version": "Pentium(R)Dual-CoreCPUE5400@2.70GHz * 1"} to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:42:43 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:55:24 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:55:24 send_query.py POST {"Disk_size": {"/dev/sda": "500GB"}, "ip": "10.0.2.22", "hostname": "gvtv-System-Product-Name", "Memory_total": "2.0 G", "system-product-name": "SystemProductName", "MAC": "bc:ae:c5:df:dd:7b", "system-serial-number": "SystemSerialNumber", "key": "c1d585bb2e4e5001e4a3d0371d9cb039", "system-manufacturer": "Systemmanufacturer", "Disk_hardware": {"disk0": "ATA WDC WD5000AAKX-0"}, "type": "long", "processor-version": "Pentium(R)Dual-CoreCPUE5400@2.70GHz * 1"} to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:57:04 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/
+[INFO] Tue, 18 Aug 2015 15:57:06 send_query.py GET key=18ec65f8d56d090559dc6283a316b2c2 to http://10.0.2.22:8000/hardware/api_hardware/

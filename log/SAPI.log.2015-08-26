@@ -1,0 +1,95 @@
+[DEBUG] Tue, 25 Aug 2015 15:23:09 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 15:24:19 LongClient.py connect to network server success
+[ERROR] Tue, 25 Aug 2015 16:35:23 LongClient.py [Errno 111] Connection refused
+[DEBUG] Tue, 25 Aug 2015 16:35:37 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 16:39:23 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 16:50:45 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 16:53:48 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 16:54:37 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 16:56:46 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:13:36 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:16:11 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:18:32 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:19:35 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:21:23 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:22:03 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:29:21 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:30:37 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:32:47 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:34:46 LongClient.py connect to network server success
+[DEBUG] Tue, 25 Aug 2015 17:35:28 LongClient.py connect to network server success
+[INFO] Tue, 25 Aug 2015 17:35:38 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[INFO] Tue, 25 Aug 2015 17:37:23 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[INFO] Tue, 25 Aug 2015 17:38:38 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[DEBUG] Tue, 25 Aug 2015 17:55:53 LongClient.py connect to network server success
+[INFO] Tue, 25 Aug 2015 17:55:58 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[INFO] Wed, 26 Aug 2015 15:15:52 LongClient.py connect to network server success
+[INFO] Wed, 26 Aug 2015 15:18:16 LongClient.py connect to network server success
+[INFO] Wed, 26 Aug 2015 15:18:56 LongClient.py connect to network server success
+[INFO] Wed, 26 Aug 2015 15:19:16 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[INFO] Wed, 26 Aug 2015 15:29:21 LongClient.py connect to network server success
+[INFO] Wed, 26 Aug 2015 15:29:36 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[INFO] Wed, 26 Aug 2015 15:31:42 LongClient.py connect to network server success
+[INFO] Wed, 26 Aug 2015 15:31:57 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[INFO] Wed, 26 Aug 2015 15:35:45 LongClient.py connect to network server success
+[INFO] Wed, 26 Aug 2015 15:36:00 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[INFO] Wed, 26 Aug 2015 15:36:44 LongClient.py connect to network server success
+[INFO] Wed, 26 Aug 2015 15:36:59 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[INFO] Wed, 26 Aug 2015 15:37:25 LongClient.py connect to network server success
+[INFO] Wed, 26 Aug 2015 15:38:00 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[INFO] Wed, 26 Aug 2015 16:51:21 LongClient.py connect to network server success
+[INFO] Wed, 26 Aug 2015 16:55:43 LongClient.py connect to network server success
+[DEBUG] Wed, 26 Aug 2015 16:55:43 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:55:48 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:55:53 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:55:58 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:56:03 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:56:08 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:56:13 LongClient.py receive heartbeat
+[INFO] Wed, 26 Aug 2015 16:56:18 APItransfer.py RUN python2.7 /data/MyPY/SAPI/utils/test.py 
+[INFO] Wed, 26 Aug 2015 16:56:18 LongClient.py recevice msg:{"args": [], "script": "test.py"}
+[DEBUG] Wed, 26 Aug 2015 16:56:18 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:56:23 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:56:28 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:56:33 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:56:38 LongClient.py receive heartbeat
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:56:43 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:15 LongClient.py connect to network server success
+[DEBUG] Wed, 26 Aug 2015 16:59:15 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:59:20 LongClient.py receive heartbeat
+[INFO] Wed, 26 Aug 2015 16:59:25 LongClient.py recevice msg:{"args": [], "script": "test.py"}
+[DEBUG] Wed, 26 Aug 2015 16:59:25 LongClient.py receive heartbeat
+[DEBUG] Wed, 26 Aug 2015 16:59:30 LongClient.py receive heartbeat
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
+[INFO] Wed, 26 Aug 2015 16:59:35 LongClient.py recevice msg:
